@@ -1,4 +1,4 @@
-**Deprecation warning:** Please note that this fork of Skeleton 1.0 is no longer actively maintained.  For new projects, there is now a [version 2.0](https://github.com/dhg/Skeleton) of Skeleton.
+**Deprecation warning:** Please note that this fork of Skeleton v1 is no longer actively maintained.  There is now a [version 2](https://github.com/dhg/Skeleton) of Skeleton.
 
 # Skeleton
 ### A Beautiful Boilerplate for Responsive, Mobile-Friendly Development
